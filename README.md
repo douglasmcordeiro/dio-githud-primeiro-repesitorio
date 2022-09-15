@@ -1,2 +1,2 @@
-# dio-githud-primeiro-repesitorio
-desafio de projeto sobre Git/GitHub
+#  Desafio de Projeto sobre Git/GitHub da Dio 
+Repesitório Criado para o Desafio de Projeto.
